@@ -127,6 +127,13 @@ header nav a:hover {
 
 /* INDEX */
 
+@media (min-width: 1600px) {
+  .inicio{
+    padding-top: 500px;
+  }
+}
+
+
 #video{
     width: 100%;
     height: 500px;
