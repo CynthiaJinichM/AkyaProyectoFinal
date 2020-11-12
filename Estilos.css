@@ -132,7 +132,7 @@ video {
   top: 0;
   left: 0;
   width: 100%;
-  max-height: 1000px;
+  max-height: 700px;
   object-fit: cover;
   object-position: center;
 opacity: 60%;
